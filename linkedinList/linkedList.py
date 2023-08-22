@@ -18,5 +18,6 @@ if __name__ == '__main__':
     head.next.next.next.next = Node(5)
     
 
-    print(find(head, 7))
+    print(find(head, 3))
     print(find(head, 6))
+    print(find(head, 9))
